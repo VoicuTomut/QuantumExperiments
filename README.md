@@ -1,2 +1,3 @@
 # QuantumExperiments
- This repo contains several small projects made by me to better understand how
+ This repo contains several small projects made to
+ better understand Quantum computing. 
